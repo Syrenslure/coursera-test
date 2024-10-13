@@ -1,3 +1,4 @@
+theme: jekyll-theme-architect
 # Where things are
 source              : .
 destination         : ./_site
